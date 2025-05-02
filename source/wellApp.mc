@@ -3,7 +3,6 @@ import Toybox.Lang;
 import Toybox.WatchUi;
 
 class wellApp extends Application.AppBase {
-
     function initialize() {
         AppBase.initialize();
     }
@@ -20,7 +19,6 @@ class wellApp extends Application.AppBase {
     function getInitialView() as [Views] or [Views, InputDelegates] {
         return [ new wellView() ];
     }
-
 }
 
 function getApp() as wellApp {

@@ -1,11 +1,13 @@
 # Garmin Connect IQ WELL Points data field
 
-View WELL Points being earned by your activity in real time! 
-These points earn benefits as described at https://www.massmutual.com/well. 
-Note that you still need to connect your LivingWELL by MassMutual app to redeem the points, 
+View WELL Points being earned by your activity in real time!
+These points earn benefits as described at https://www.massmutual.com/well.
+Note that you still need to connect your LivingWELL by MassMutual app to redeem the points,
 this data field is anonymous and not connected to our app.
 
-![screenshot](sdk_screenshot.png)
+If you want 8 fields displaying this at the same time, here ya go:
+
+<img src="sdk-screenshot.png" alt="drawing" width="200"/>
 
 ## Install from Connect IQ
 

@@ -1,3 +1,7 @@
 developer_key
+# simuulator/sdk uses this:
 bin/
+# built app:
 *.iq
+# use a venv for pre-commit
+.venv/
