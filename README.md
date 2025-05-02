@@ -5,7 +5,7 @@ These points earn benefits as described at https://www.massmutual.com/well.
 Note that you still need to connect your LivingWELL by MassMutual app to redeem the points,
 this data field is anonymous and not connected to our app.
 
-If you want 8 fields displaying this at the same time, here ya go:
+If you want 6 fields displaying this at the same time, here ya go (8 was too crowded on a 955):
 
 <img src="sdk-screenshot.png" alt="drawing" width="200"/>
 
